@@ -1,0 +1,1192 @@
+[
+  {
+    "tag": "1girl",
+    "count": 4500000,
+    "type": "general"
+  },
+  {
+    "tag": "1boy",
+    "count": 1200000,
+    "type": "general"
+  },
+  {
+    "tag": "2girls",
+    "count": 1800000,
+    "type": "general"
+  },
+  {
+    "tag": "long_hair",
+    "count": 3000000,
+    "type": "general"
+  },
+  {
+    "tag": "short_hair",
+    "count": 2200000,
+    "type": "general"
+  },
+  {
+    "tag": "blonde_hair",
+    "count": 2100000,
+    "type": "general"
+  },
+  {
+    "tag": "black_hair",
+    "count": 1900000,
+    "type": "general"
+  },
+  {
+    "tag": "blue_eyes",
+    "count": 1700000,
+    "type": "general"
+  },
+  {
+    "tag": "red_eyes",
+    "count": 900000,
+    "type": "general"
+  },
+  {
+    "tag": "animal_ears",
+    "count": 1600000,
+    "type": "general"
+  },
+  {
+    "tag": "tail",
+    "count": 1100000,
+    "type": "general"
+  },
+  {
+    "tag": "wings",
+    "count": 800000,
+    "type": "general"
+  },
+  {
+    "tag": "bird",
+    "count": 320000,
+    "type": "general"
+  },
+  {
+    "tag": "flying",
+    "count": 280000,
+    "type": "general"
+  },
+  {
+    "tag": "house",
+    "count": 150000,
+    "type": "general"
+  },
+  {
+    "tag": "home",
+    "count": 90000,
+    "type": "general"
+  },
+  {
+    "tag": "outdoors",
+    "count": 2100000,
+    "type": "general"
+  },
+  {
+    "tag": "indoors",
+    "count": 900000,
+    "type": "general"
+  },
+  {
+    "tag": "sky",
+    "count": 1400000,
+    "type": "general"
+  },
+  {
+    "tag": "cloud",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "building",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "city",
+    "count": 700000,
+    "type": "general"
+  },
+  {
+    "tag": "forest",
+    "count": 500000,
+    "type": "general"
+  },
+  {
+    "tag": "beach",
+    "count": 900000,
+    "type": "general"
+  },
+  {
+    "tag": "mountain",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "night",
+    "count": 1300000,
+    "type": "general"
+  },
+  {
+    "tag": "day",
+    "count": 1100000,
+    "type": "general"
+  },
+  {
+    "tag": "sunset",
+    "count": 450000,
+    "type": "general"
+  },
+  {
+    "tag": "rain",
+    "count": 350000,
+    "type": "general"
+  },
+  {
+    "tag": "solo",
+    "count": 4000000,
+    "type": "general"
+  },
+  {
+    "tag": "multiple_girls",
+    "count": 800000,
+    "type": "general"
+  },
+  {
+    "tag": "dress",
+    "count": 2000000,
+    "type": "general"
+  },
+  {
+    "tag": "school_uniform",
+    "count": 1300000,
+    "type": "general"
+  },
+  {
+    "tag": "swimsuit",
+    "count": 1500000,
+    "type": "general"
+  },
+  {
+    "tag": "bikini",
+    "count": 1100000,
+    "type": "general"
+  },
+  {
+    "tag": "lingerie",
+    "count": 900000,
+    "type": "general"
+  },
+  {
+    "tag": "nude",
+    "count": 800000,
+    "type": "general"
+  },
+  {
+    "tag": "breasts",
+    "count": 2500000,
+    "type": "general"
+  },
+  {
+    "tag": "large_breasts",
+    "count": 1800000,
+    "type": "general"
+  },
+  {
+    "tag": "small_breasts",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "cleavage",
+    "count": 1000000,
+    "type": "general"
+  },
+  {
+    "tag": "thighhighs",
+    "count": 1400000,
+    "type": "general"
+  },
+  {
+    "tag": "stockings",
+    "count": 1000000,
+    "type": "general"
+  },
+  {
+    "tag": "gloves",
+    "count": 700000,
+    "type": "general"
+  },
+  {
+    "tag": "hat",
+    "count": 800000,
+    "type": "general"
+  },
+  {
+    "tag": "glasses",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "smile",
+    "count": 2600000,
+    "type": "general"
+  },
+  {
+    "tag": "open_mouth",
+    "count": 1800000,
+    "type": "general"
+  },
+  {
+    "tag": "looking_at_viewer",
+    "count": 3200000,
+    "type": "general"
+  },
+  {
+    "tag": "lying",
+    "count": 1000000,
+    "type": "general"
+  },
+  {
+    "tag": "sitting",
+    "count": 1600000,
+    "type": "general"
+  },
+  {
+    "tag": "standing",
+    "count": 1400000,
+    "type": "general"
+  },
+  {
+    "tag": "kneeling",
+    "count": 500000,
+    "type": "general"
+  },
+  {
+    "tag": "from_behind",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "side_view",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "cowboy_shot",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "upper_body",
+    "count": 900000,
+    "type": "general"
+  },
+  {
+    "tag": "full_body",
+    "count": 1100000,
+    "type": "general"
+  },
+  {
+    "tag": "panorama",
+    "count": 80000,
+    "type": "general"
+  },
+  {
+    "tag": "detailed_background",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "simple_background",
+    "count": 700000,
+    "type": "general"
+  },
+  {
+    "tag": "white_background",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "holding",
+    "count": 500000,
+    "type": "general"
+  },
+  {
+    "tag": "weapon",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "sword",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "flower",
+    "count": 500000,
+    "type": "general"
+  },
+  {
+    "tag": "rose",
+    "count": 200000,
+    "type": "general"
+  },
+  {
+    "tag": "cat",
+    "count": 700000,
+    "type": "general"
+  },
+  {
+    "tag": "dog",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "dragon",
+    "count": 250000,
+    "type": "general"
+  },
+  {
+    "tag": "elf",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "angel",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "demon",
+    "count": 350000,
+    "type": "general"
+  },
+  {
+    "tag": "witch",
+    "count": 200000,
+    "type": "general"
+  },
+  {
+    "tag": "maid",
+    "count": 900000,
+    "type": "general"
+  },
+  {
+    "tag": "nurse",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "uniform",
+    "count": 500000,
+    "type": "general"
+  },
+  {
+    "tag": "armor",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "fantasy",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "sci-fi",
+    "count": 150000,
+    "type": "general"
+  },
+  {
+    "tag": "water",
+    "count": 800000,
+    "type": "general"
+  },
+  {
+    "tag": "fire",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "magic",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "tattoo",
+    "count": 250000,
+    "type": "general"
+  },
+  {
+    "tag": "piercing",
+    "count": 150000,
+    "type": "general"
+  },
+  {
+    "tag": "jewelry",
+    "count": 200000,
+    "type": "general"
+  },
+  {
+    "tag": "highres",
+    "count": 2000000,
+    "type": "general"
+  },
+  {
+    "tag": "absurdres",
+    "count": 800000,
+    "type": "general"
+  },
+  {
+    "tag": "masterpiece",
+    "count": 500000,
+    "type": "general"
+  },
+  {
+    "tag": "best_quality",
+    "count": 600000,
+    "type": "general"
+  },
+  {
+    "tag": "lowres",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "bad_anatomy",
+    "count": 150000,
+    "type": "general"
+  },
+  {
+    "tag": "blurry",
+    "count": 120000,
+    "type": "general"
+  },
+  {
+    "tag": "monochrome",
+    "count": 400000,
+    "type": "general"
+  },
+  {
+    "tag": "sketch",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "traditional_media",
+    "count": 100000,
+    "type": "general"
+  },
+  {
+    "tag": "photorealistic",
+    "count": 200000,
+    "type": "general"
+  },
+  {
+    "tag": "3d",
+    "count": 250000,
+    "type": "general"
+  },
+  {
+    "tag": "chibi",
+    "count": 300000,
+    "type": "general"
+  },
+  {
+    "tag": "topless",
+    "count": 1100000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "bottomless",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "huge_breasts",
+    "count": 950000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "medium_breasts",
+    "count": 800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "flat_chest",
+    "count": 700000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "nipples",
+    "count": 1800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "erect_nipples",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "puffy_nipples",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "areolae",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "sideboob",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "underboob",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "ass",
+    "count": 2800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "large_ass",
+    "count": 900000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "small_ass",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "butt_crack",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "thighs",
+    "count": 1200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "thick_thighs",
+    "count": 700000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "wide_hips",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "navel",
+    "count": 1100000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "belly",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "armpits",
+    "count": 450000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "pussy",
+    "count": 2200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "spread_legs",
+    "count": 800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "spread_pussy",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cameltoe",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "pubic_hair",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "shaved_pussy",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "panties",
+    "count": 2400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "bra",
+    "count": 1300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "lace_panties",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "thong",
+    "count": 650000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "g-string",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "micro_bikini",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "fishnets",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "garter_belt",
+    "count": 280000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "pantyhose",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "one-piece_swimsuit",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "competition_swimsuit",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "see-through",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "sheer_clothing",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "wet_clothes",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "no_bra",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "no_panties",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "undressing",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "lifted_by_self",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "pantyshot",
+    "count": 900000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "upskirt",
+    "count": 700000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "underwear",
+    "count": 800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "side_slit",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "sex",
+    "count": 1800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "vaginal",
+    "count": 900000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "anal",
+    "count": 700000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "oral",
+    "count": 800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "blowjob",
+    "count": 850000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "deepthroat",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cunnilingus",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "69",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "missionary",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "doggystyle",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cowgirl_position",
+    "count": 450000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "reverse_cowgirl",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "from_above",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "straddling",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "facial",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cum",
+    "count": 1200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cum_on_body",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cum_on_breasts",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cum_on_face",
+    "count": 450000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cum_in_pussy",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "creampie",
+    "count": 650000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "bukkake",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "masturbation",
+    "count": 900000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "fingering",
+    "count": 550000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "dildo",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "vibrator",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "double_penetration",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "gangbang",
+    "count": 120000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "group_sex",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "ahegao",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "heart_shaped_pupils",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "drooling",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "embarrassed",
+    "count": 800000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "blush",
+    "count": 3200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "tears",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "sweat",
+    "count": 900000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "saliva",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "tongue_out",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "bondage",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "bdsm",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "shibari",
+    "count": 120000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "collar",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "leash",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "gag",
+    "count": 100000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "blindfold",
+    "count": 120000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "handcuffs",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "rope",
+    "count": 180000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "latex",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "leather",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "maid_outfit",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "nurse_outfit",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "police_uniform",
+    "count": 120000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "bunny_girl",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "cat_girl",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "fox_girl",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "elf_ears",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "curvy",
+    "count": 600000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "voluptuous",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "hourglass_figure",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "muscular_female",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "abs",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "tall_female",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "short_female",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "petite",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "big_ass",
+    "count": 750000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "big_breasts",
+    "count": 900000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "ejaculation",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "semen",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "leaking_cum",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "kissing",
+    "count": 500000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "tentacle",
+    "count": 180000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "futanari",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "yuri",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "yaoi",
+    "count": 300000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "hetero",
+    "count": 200000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "threesome",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "orgy",
+    "count": 80000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "paizuri",
+    "count": 280000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "footjob",
+    "count": 150000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "handjob",
+    "count": 400000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "titjob",
+    "count": 350000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "anal_beads",
+    "count": 50000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "butt_plug",
+    "count": 80000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "choker",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "navel_piercing",
+    "count": 100000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "nipple_piercing",
+    "count": 80000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "thigh_gap",
+    "count": 250000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "areola_slip",
+    "count": 80000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "wardrobe_malfunction",
+    "count": 120000,
+    "type": "nsfw"
+  },
+  {
+    "tag": "nipple_slip",
+    "count": 100000,
+    "type": "nsfw"
+  }
+]

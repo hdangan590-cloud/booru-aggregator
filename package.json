@@ -1,0 +1,59 @@
+{
+  "name": "booru-aggregator",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Booru Aggregator — дедупликация, лучшее качество, 238 тегов (18+), массовое скачивание",
+  "main": "electron/main.js",
+  "type": "module",
+  "scripts": {
+    "dev:all": "concurrently \"npm start --prefix backend\" \"npm run dev --prefix frontend\"",
+    "build": "npm run build --prefix frontend",
+    "start": "node backend/server.js",
+    "electron:dev": "npm run build && electron .",
+    "electron:build": "npm run build && electron-builder --linux --win --x64",
+    "postinstall": "electron-builder install-app-deps || true"
+  },
+  "build": {
+    "appId": "com.booru.aggregator",
+    "productName": "Booru Aggregator",
+    "files": [
+      "electron/**/*",
+      "backend/**/*",
+      "frontend/dist/**/*",
+      "data/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "backend",
+        "to": "backend"
+      }
+    ],
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "icon": "electron/icon.png",
+      "category": "Graphics"
+    },
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "electron/icon.png"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "directories": {
+      "buildResources": "electron"
+    }
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  }
+}
